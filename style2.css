@@ -1,0 +1,31 @@
+.head{
+    
+color:#9DCBB6;
+   
+font-size:45px;
+font-family:palatino;
+ 
+text-align:center;
+}
+
+body{
+text-align:center;
+background-color:#8C0820;
+}
+
+.paragraph1{
+color:green;
+font-family:"brush script", serif;
+font-size:25px;
+}
+
+.paragraph2{
+color:green;
+font-family:garamond, serif;
+font-size:15px;
+}
+
+.paragraph3{
+color:white;
+font-size:20
+}
