@@ -19,9 +19,9 @@ background-color:yellow;
 }
 
 .sprite {
-    width:200px;
-    height:200px;
-    background-image:url(sprite,jpg);
+    width:300px;
+    height:300px;
+    background-image:url(sprite.jpg);
     background-repeat:no-repeat;
 display:block;
 text-indent:100%;
@@ -33,11 +33,11 @@ right:40px;
 }
 
 .sprite:hover{
-    background-position:-200px 0;
+    background-position:-300px 0;
 }
 
 .sprite:active{
-    background-position:-400px 0;
+    background-position:-600px 0;
 }
 
 .canvas{
@@ -65,3 +65,4 @@ right:40px;
     right:40px;
     
 }
+

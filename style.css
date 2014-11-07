@@ -1,9 +1,10 @@
 body {
-     background-color:blue;
-     color:red;
-     font-size:36px;
+     background-color:#F0F4FF;
+     color:#85CEFF;
+     font-size:16px;
      font-family:arial, sans-serif;
  text-align:center;
+ bottom:5;
     
 }
 
@@ -18,31 +19,32 @@ p {
 
 
 .one{
-width:100px;
-height:100px;
-background-color: green;
-position:absolute;
-top:200px;
-bottom:50px;
-right:300px
+width:50px;
+height:50px;
+background-color: #CCFF66;
 border-radius:100%;
-border:solid red 0px;
-    
+    display: inline-block;
 }
 
 .one:hover{
-    background-color:lime;
+    background-color:orange;
 }
 
 a:link{
     color:white;
     text-decoration:none;
+
 }
 
 a:visited{
-    color:black;
+    color:white;
 }
 
 a:hover{
-    color:red;
+    color:orange;
+
+    
+}
+.mymarquee{
+    bottom:300;
 }
