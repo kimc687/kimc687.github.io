@@ -13,7 +13,7 @@ p {
 }
 
 .paragraph1 {
-    color:white;
+    color:#BDBDBD;
 }
 
 
@@ -31,17 +31,17 @@ border-radius:100%;
 }
 
 a:link{
-    color:white;
+    color:#BDBDBD;
     text-decoration:none;
 
 }
 
 a:visited{
-    color:white;
+    color:orange;
 }
 
 a:hover{
-    color:orange;
+    color:#31B404;
 
     
 }
